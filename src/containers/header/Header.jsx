@@ -3,8 +3,8 @@ import './header.css'
 
 const Header = () => {
   return (
-    <div>
-      Header
+    <div className="gpt3__header section__padding" id='home'>
+      .
     </div>
   )
 }
