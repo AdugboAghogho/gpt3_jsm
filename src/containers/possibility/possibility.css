@@ -84,10 +84,10 @@
     }
 }
 
-@media screen and (max-width: 850px) {
+/* @media screen and (max-width: 800px) {
     .gpt3__possibility-image img {
-        width: 50%;
+        width: 30%;
         height: 100%;
     }
-}
+} */
 
