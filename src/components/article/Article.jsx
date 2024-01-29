@@ -8,7 +8,7 @@ const Article = ({ imgUrl, title, date }) => {
         <img src={imgUrl} alt="blog image" />
       </div>
 
-      <div className="gpt3__blog-container_content">
+      <div className="gpt3__blog-container_article-content">
         <div>
           <p>{date}</p>
           <h3>{title}</h3>
